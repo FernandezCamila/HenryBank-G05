@@ -6,7 +6,9 @@
 
 <div>
     <h1>HOME & LOGIN</h1> 
-    <img width="250" height="auto" src="./client/assets/readme/Home.jpg"></img>
+    <video width="250" height="auto">
+      <source src="./client/assets/readme/styloUpdateado/gif.mp4" type="video/mp4">
+    </video>
     <h1>REGISTRO </h1> 
     <h2>PASO 1 - REGISTRO INICIAL</h2> 
     <p>Solo debes poner tus datos basicos para el registro.</p>
