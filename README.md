@@ -10,10 +10,9 @@
     <h1>REGISTRO </h1> 
     <h2>PASO 1 - REGISTRO INICIAL</h2> 
     <p>Solo debes poner tus datos basicos para el registro.</p>
-    <span> 
-     <img width="250" height="auto" src="./client/assets/readme/Registro1.jpg"> <br> <br> <br>
-     <img width="250" height="auto" src="./client/assets/readme/Registro1.jpg">
-    <span> 
+    <img width="250" height="auto" src="./client/assets/readme/Registro1.jpg"> 
+     
+    
     <h2>PASO 2 - VALIDA EL CODIGO</h2> 
     <p>Una vez termines el paso uno, te enviaremos un correo electronico con el codigo correspondiente.</p>
     <img width="250" height="auto" src="./client/assets/readme/Registro2.jpg"></img>
