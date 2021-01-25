@@ -6,20 +6,21 @@
 
 <div>
     <h1>HOME & LOGIN</h1> 
-    <img width="250" height="auto" src="./client/assets/readme/Home.jpg"></img>
+    <img width="250" height="auto" 
+    src="./client/assets/readme/styloUpdateado/login.jpeg"></img>
     <h1>REGISTRO </h1> 
     <h2>PASO 1 - REGISTRO INICIAL</h2> 
     <p>Solo debes poner tus datos basicos para el registro.</p>
-    <img width="250" height="auto" src="./client/assets/readme/Registro1.jpg"></img>
+    <img width="250" height="auto" src="./client/assets/readme/styloUpdateado/crear-cuenta1.jpeg"></img>
     <h2>PASO 2 - VALIDA EL CODIGO</h2> 
     <p>Una vez termines el paso uno, te enviaremos un correo electronico con el codigo correspondiente.</p>
-    <img width="250" height="auto" src="./client/assets/readme/Registro2.jpg"></img>
+    <img width="250" height="auto" src="./client/assets/readme/styloUpdateado/validacion-cuenta.jpeg"></img>
     <h2>PASO 3 - DAR ALTA A TU CUENTA</h2> 
-    <p>Una vez valides tu codigo, tendras que completar un ultimo paso. Llena el formulario con los datos complementarios.</p>
-    <img width="250" height="auto" src="./client/assets/readme/Registro3.png"></img>
+    <p> Luego de ingresar el codigo, el ultimo paso sera completar el formulario con tus datos personales.</p>
+    <img width="250" height="auto" src="./client/assets/readme/styloUpdateado/reg-datos.jpeg"></img>
     <h2>PASO 4 - LOGIN</h2> 
     <p>Finalmente ya puedes logearte con tu email y contraseña registrados, ahora puedes disfrutar de Hbank.</p>
-    <img width="250" height="auto" src="./client/assets/readme/Home.jpg"></img>
+    <img width="250" height="auto" src="./client/assets/readme/styloUpdateado/login.jpeg"></img>
 <div>
 
 <div>
@@ -30,25 +31,26 @@
     <img width="250" height="auto" src="./client/assets/readme/Inicio.jpg"></img>
     <h1>RECARGAR DINERO</h1> 
     <p>
-        Recarga dinero a cualquiera de tus dos cuentas por medio de tarjeta credito o deboto, o atravez de un codigo QR que presentaras en cualquier punto de Todo Pago.
+        Recarga dinero a cualquiera de tus dos cuentas por medio de tarjeta credito o debito, o a traves de un codigo QR que presentaras en cualquier punto de Todo Pago.
     </p>
+    <img width="250" height="auto" src="./client/assets/readme/styloUpdateado/metodo-pago.jpeg"></img>
     <h2>TARJETA</h2>
-    <img width="250" height="auto" src="./client/assets/readme/Tarjeta.jpg""></img>
+    <img width="250" height="auto" src="./client/assets/readme/styloUpdateado/tarjeta.jpeg"></img>
     <h2>CODIGO ELECTRONICO</h2>
-    <img width="250" height="auto" src="./client/assets/readme/Codigo.jpg"></img>
+    <img width="250" height="auto" src="./client/assets/readme/styloUpdateado/mercado-pago.jpeg"></img>
     <h1>MANDAR DINERO</h1> 
     <p>
         Mandar dinero a tus contactos. Puedes hacerlo desde cualquiera de tus cuentas siempre y cuando tengas saldo disponible.
     </p>
-    <img width="250" height="auto" src="./client/assets/readme/EnviarDinero.jpg"></img>
+    <img width="250" height="auto" src="./client/assets/readme/styloUpdateado/enviar-dinero1.jpeg"></img>
     <h1>MOVIMIENTOS Y ESTADISTICAS</h1>
     <p>
-        Puedes ver tus ultimos movimientos en los ultimos 15 y 7 dias, asi como los que realizaste el mismo dia. de igual manera tendras informacion un poco mas especifica, ya que contaras con una opcion de estadisticas, en las cuales te muestraremos como fue el comportamiento de tu dienro, en el trascurso de los ultimos 7 dias encuanto a ingreso y egresos.
+        Puedes ver tus transcciones realizadas de acuerdo a periodos de tipo mensual , semanal y diaria volcados en un grafico. asimismo tendras informacion detallada de tus ultimos movimientos.
     </p>
     <h2>ULTIMOS MOVIMIENTOS</h2>
-    <img width="250" height="auto" src="./client/assets/readme/UltimosMov.jpg"></img>
+    <img width="250" height="auto" src="./client/assets/readme/styloUpdateado/UltimosMov.jpeg"></img>
     <h2>ESTADISTICAS</h2>
-    <img width="250" height="auto" src="./client/assets/readme/Estadisticas.jpg"></img>
+    <img width="250" height="auto" src="./client/assets/readme/styloUpdateado/Estadisticas.jpeg"></img>
 </div>
 <div>
 
